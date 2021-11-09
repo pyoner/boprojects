@@ -6,6 +6,7 @@
   import projects from '$lib/data/projects.yaml';
 
   const headers = [
+    { key: 'index', value: '#' },
     { key: 'icon', value: '' },
     { key: 'name', value: 'Name' },
     { key: 'type', value: 'Type' },
@@ -13,7 +14,7 @@
     { key: 'description', value: 'Description' },
     { key: 'author', value: 'Author' }
   ];
-  const rows = projects.map((p) => ({ ...p, id: p.name }));
+  const rows = projects.map((p, i) => ({ ...p, id: p.name, index: i + 1 }));
   const title = 'Проекты клуба Борадач';
   const description = 'Список запущенных проектов участниками клуба Бородач';
 </script>
