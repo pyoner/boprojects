@@ -15,7 +15,7 @@
     { key: 'author', value: 'Author' }
   ];
   const rows = projects.map((p, i) => ({ ...p, id: p.name, index: i + 1 }));
-  const title = 'Проекты клуба Борадач';
+  const title = 'Проекты клуба Бородач';
   const description = 'Список запущенных проектов участниками клуба Бородач';
 </script>
 
