@@ -1,258 +1,404 @@
 --- # projects
   -
     name: LeadAlertsBot
+    title: Lead Alerts Bot
+    description: Бот для отслеживания упоминаний в указанных чатах и каналах.
+    icon: static/projects/lead-alerts-bot.jpg
 		links:
 			- https://t.me/LeadAlertsBot
     author: @yurayakimenko
   -
     name: BookKicker_bot
+    title: BookKicker👻 📚
+    description: Kicks your book every hour to your telegram.
+    icon: static/projects/book-kicker-bot.jpg
 		links:
 			- https://t.me/BookKicker_bot
     author: @alexff91
   -
     name: getatopic_bot
+    title: getatopic
+    description: This bot will help you choose topics for an English speaking club.
+    icon: static/projects/get-a-topic-bot.jpg
 		links:
 			- https://t.me/getatopic_bot
     author: @vovalukashov
   -
-    name: antiplagiat_robot 
+    name: antiplagiat_robot
+    title: Антиплагиат-бот от Text.ru| Точная проверка на уникальность
+    description: Быстрая проверка текста на уникальность, не выходя из Telegram, от Text.ru
+    icon: static/projects/antiplagiat-robot.jpg
 		links:
 			- https://t.me/antiplagiat_robot 
     author: @eldar_agaev
   -
     name: nftmap.com/landing
+    title: NftMap landing
+    description: Future of Digital Art
+    icon: static/projects/nftmap-landing.svg
+    links:
+      - https://nftmap.com/landing
     author: @bitcoinsmd
   -
-    name: makereview.botsbase.ru 
+    name: makereview.botsbase.ru
+    title: Телеграм бот для отзывов и предложений
+    description: Телеграм бот для оповещения и напоминания о встречах и мероприятиях. Создавайте встречи, приглашайте пользователей и напоминайте им о себе! Или подписывайтесь на интересные встречи и не забывайте про них!
+    links:
+      - https://makereview.botsbase.ru/
     author: @bazhanRO
   -
     name: videodiarybot
+    title: Video Diary
+    description: Личные видеодневники. Personal video diaries.
+    icon: static/projects/video-diary-bot.jpg
 		links:
 			- https://t.me/videodiarybot
     author: @tgaru
   -
     name: checklybot
+    title: Checklist
+    description: I make checklists from your messages.
+    icon: static/projects/checkly-bot.jpg
 		links:
 			- https://t.me/checklybot
     author: @defileroff
   -
     name: nutrify_bot
+    title: nutrify
+    description: Бот, готовый поделиться сбалансированными рационами на день.
+    icon: static/projects/nutrify-bot.jpg
 		links:
 			- https://t.me/nutrify_bot
     author: @defileroff
   -
     name: feed_ai
+    title: Tech Feed AI
+    description: IT news summarized by AI.
 		links:
 			- https://t.me/feed_ai
     author: @th3luck
   -
     name: voicewatcherbot
+    title: Voice Watcher 🎙👀
+    description: Напомню о старте Войс чата в вашей группе / Reminder Bot will send the voice chat start alert
+    icon: static/projects/voice-watcher-bot.jpg
 		links:
 			- https://t.me/voicewatcherbot
     author: @bazhanRO
   -
     name: apple.co/2UKH3rg
+    title: QR-code Widget
+    description: Need to frequently show QR-code? Add QR right to the main screen using this application! Also you can add QR to Apple Wallet.
+    icon: static/projects/qr-code-widget.png
     links:
       - https://apple.co/2UKH3rg
     author: @maxkazakov
   -
-    name: quit_smoking_bot 
+    name: quit_smoking_bot
+    title: Бросай!
+    description: Бот помогает людям бросить курить. Bot helps to quit smoking.
+    icon: static/projects/quit-smoking-bot.jpg
 		links:
 			- https://t.me/quit_smoking_bot 
     author: @eldar_agaev
   - 
-    name: YouTube SubSound 
+    name: YouTube SubSound
+    title: YouTube SubSound
+    description: Automatic subtitle dubbing on YouTube. Browser extension that automatically pronounces the subtitles on YouTube.
+    icon: static/projects/youtube-subsound.jpg
     links:
       - https://chrome.google.com/webstore/detail/youtube-subsound/ohjehnjdpnambhdcalhoabplbiclekhp
     author: @tgaru 
   -
-    name: life_table_bot 
+    name: life_table_bot
+    title: Таблица жизни | Узнай сколько тебе осталось
+    description: "Бот отправит таблицу жизни. На ней: прожитые недели и остаток недель до 90 лет."
+    icon: static/projects/life-table-bot.jpg
 		links:
 			- https://t.me/life_table_bot 
     author: @eldar_agaev
   -
-    name: justplacybot 
+    name: justplacybot
+    title: Placy
+    description: Placy — find places near you. Placy — ищите места возле вас.
+    icon: static/projects/just-placy-bot.jpg
 		links:
 			- https://t.me/justplacybot 
     author: @eldar_agaev
   -
-    name: face2stickerbot 
+    name: face2stickerbot
+    title: Face 2 Sticker
+    description: I turn your photos into comic style stickers.
+    icon: static/projects/face2sticker-bot.jpg
 		links:
 			- https://t.me/face2stickerbot 
     author: @defileroff
   -
-    name: einstein_iqbot 
+    name: einstein_iqbot
+    title: Альберт Эйнштейн | IQ-тест
+    description: IQ-тест на уровень интеллекта. Пройдите тест —> получите результат!
+    icon: static/projects/einstein-iq-bot.jpg
 		links:
 			- https://t.me/einstein_iqbot 
     author: @eldar_agaev
   -
-    name: FlightAlerts_Bot 
+    name: FlightAlerts_Bot
+    title: Flight Alerts
+    description: Track flights.
+    icon: static/projects/flight-alerts-bot.jpg
 		links:
 			- https://t.me/FlightAlerts_Bot 
     author: @v11cb
   -
-    name: very_lovely_bot 
+    name: very_lovely_bot
+    title: ❤️ Lovely | Знакомства в Telegram
+    description: Бот для интересных знакомств. Заполни анкету -> получи интересных людей из своего города:)
+    icon: static/projects/very-lovely-bot.jpg
 		links:
 			- https://t.me/very_lovely_bot 
     author: @eldar_agaev
   -
     name: Мультипоиск
+    title: Metasearch engine - upgrade Google search
+    description: Instantly get search results in DuckDuckGo, Bing and Yahoo or any other search engine while searching in Google
+    icon: static/projects/metasearch-engine-upgrade.jpg
     links:
       - https://chrome.google.com/webstore/detail/multisearch-multiple-sear/hcndlmemmcbjncbmbgmplmedkmbanpbo
     author: @izvonov
   -
-    name: fastfeedback_bot 
+    name: fastfeedback_bot
+    title: Fast feedback
+    description: Создай опросник прямо в Telegram
+    icon: static/projects/fast-feedback-bot.jpg
 		links:
 			- https://t.me/fastfeedback_bot 
     author: @rg_ceo
   -
     name: spinbottle_bot
+    title: Бутылочка | Играй с друзьями
+    description: Бот-бутылочка. Проведите время с друзьями весело.
+    icon: static/projects/spin-bottle-bot.jpg
 		links:
 			- https://t.me/spinbottle_bot
     author: @eldar_agaev
   -
     name: Pull-ups
+    title: Pull-ups
+    description: The Best App to keep track of your physical activity for pull-ups! Set up your level and grow magnificent biceps!
+    icon: static/projects/pull-ups.png
     links:
       - https://apps.apple.com/us/app/pull-ups/id1575124865
     author: @gralexey
   -
     name: CutPriceBot
+    title: CutPrice
+    description: Собираем обувь со скидкой более 30% со всего интернета 👌
+    icon: static/projects/cut-price-bot.jpg
 		links:
 			- https://t.me/CutPriceBot
     author: @Zestes
   -
     name: DriverHot_bot
+    title: Володя, что делать? Остановили ДПС!
+    icon: static/projects/driver-hot-bot.jpg
 		links:
 			- https://t.me/DriverHot_bot
     author: @Olegivsa
   -
     name: punchline_robot
+    title: Поиск трека по тексту
+    description: Отправь строчку из любого трека, а я постараюсь найти его название:)
+    icon: static/projects/punchline-robot.jpg
 		links:
 			- https://t.me/punchline_robot
     author: @eldar_agaev
   -
     name: BTC_transaction_robot
+    title: BTC Transaction Explorer [Bitcoin]
+    description: Checks BTC transaction status by transaction ID and notifies you when it is confirmed!
+    icon: static/projects/btc-transaction-robot.jpg
 		links:
 			- https://t.me/BTC_transaction_robot
     author: @eldar_agaev
   -
     name: recally_bot
+    title: Recally
+    description: Memorization by repetitive sending back your text
+    icon: static/projects/recally-bot.jpg
 		links:
 			- https://t.me/recally_bot
     author: @gralexey
   -
     name: HeadMarket Subscription
+    title: Подписка на рассылку 1 месяц
+    description: Получай еженедельно подборку топовых товаров на Wildberries
+    icon: static/projects/head-market-subscription.ico
     links:
       - https://headmarket.io/month_subscription
     author: @fedor_secret
   -
     name: fun_events_bot
+    title: Eventy
 		links:
 			- https://t.me/fun_events_bot
     author: @gralexey
   -
     name: botspulse.com
+    title: Каталог ботов телеграм
+    description: Каталог телеграм ботов 2021 БотБейз! Все боты в одном месте!
     links:
       - https://botspulse.com/
     author: @bazhanRO
   -
     name: futureweightbot
+    title: FutureWeight
+    description: Бот позволяет рассчитать темп похудения.
+    icon: static/projects/future-weight-bot.jpg
 		links:
 			- https://t.me/futureweightbot
     author: @devprodct
   -
     name: CryptoGrannyFree
+    title: Crypto Granny Free
+    description: Crypto arbitrage opportunities delivered to your Telegram.
+    icon: static/projects/crypto-granny-free.jpg
 		links:
 			- https://t.me/CryptoGrannyFree
     author: @borodutch
   -
     name: CommonCrypto
+    title: CommonCrypto
+    description: Free crypto exchange tickers API
     links:
       - https://commoncrypto.dev/
     author: @borodutch
   -
     name: Dosu
+    title: Dosu
+    description: Share your thoughts with the world pseudonymously
+    icon: static/projects/dosu.png
     links:
       - https://dosu.io/
     author: @borodutch
   -
     name: productiveme_bot
+    title: Three Daily Goals
+    description: Bot for your Three Main Goals per day.
+    icon: static/projects/productive-me-bot.jpg
 		links:
 			- https://t.me/productiveme_bot
     author: @alexff91
   -
     name: Supplar (Android, iOS)
+    title: Supplar
+    description: Дневник питания. Что сегодня приготовить на ужин?
+    icon: static/projects/supplar.webp
     links:
       - https://play.google.com/store/apps/details?id=com.supplar
       - https://apps.apple.com/ru/app/supplar/id1577333163
     author: @dexedrine
   -
     name: palitra.app
+    title: The easiest way to find a color palette
+    description: Free color palette finder allows you easy find a color palette. Just enter keywords and get your color palette! Try it now!
+    icon: static/projects/palitra-app.png
     links:
       - https://palitra.app/
     author: @pyoner
   -
     name: gotohr.ru
+    title: Простой способ опубликовать вакансию
+    description: Публикуйте вакансию единоразово на сайтах по поиску вакансий, в телеграм каналах, группах и чатах.
+    icon: static/projects/gotohr.png
     links:
       - https://gotohr.ru/
     author: @dshuran
   -
     name: flag_guesser_bot
+    title: Угадай флаг!
+    description: Угадай страну по флагу!
+    icon: static/projects/flag-guesser-bot.jpg
 		links:
 			- https://t.me/flag_guesser_bot
     author: @eldar_agaev
   -
     name: DoEventaBot
+    title: DoEventa
+    icon: static/projects/do-eventa-bot.jpg
 		links:
 			- https://t.me/DoEventaBot
     author: @memanot
   -
     name: ens.utilz.dev
+    title: 🔥 ENS Domains Catcher 🔥
+    icon: static/projects/ens-utilz-dev.ico
     links:
       - https://ens.utilz.dev/
     author: @johnnykramer
   -
     name: speakingbuddybot
+    title: Shuffle
+    description: Bot helps people connect with each other to regularly practice English.
+    icon: static/projects/speaking-buddy-bot.jpg
 		links:
 			- https://t.me/speakingbuddybot
     author: @spbguy
   -
     name: TestYourEnglishLevelBot
+    title: Test Your English
+    description: Бот определит ваш уровень английского языка на основе быстрого теста.
+    icon: static/projects/test-your-english-level-bot.jpg
 		links:
 			- https://t.me/TestYourEnglishLevelBot
     author: @spbguy
   -
     name: yunior.app
+    title: Мы помогаем студентам и молодым специалистам найти себя
+    description: Интеллектуальная работа, стажировки и другие карьерные возможности для студентов и молодых специалистов в крупных компаниях и крутых стартапах
+    icon: static/projects/yunior-app.ico
     links:
       - https://yunior.app/
     author: @spbguy
   -
     name: base.yunior.app
+    title: Мы помогаем компаниям найти таланты
+    description: База мотивированных кандидаты с актуальными знаниями и навыками
+    icon: static/projects/base-yunior-app.ico 
     links:
       - https://base.yunior.app/
     author: @spbguy
   -
     name: dovideo.net
+    title: Focus on youtube video without any distractions!
     links:
       - https://dovideo.net/
     author: @dshuran
   -
     name: hearty_robot
+    title: Выскажись | Hearty bot
+    description: Этот бот поможет тебе высказаться.
+    icon: static/projects/hearty-robot.jpg
 		links:
 			- https://t.me/hearty_robot
     author: @eldar_agaev
   -
     name: habit_up_bot
+    title: HabitUP - трекер привычек
+    icon: static/projects/habit-up-bot.jpg
 		links:
 			- https://t.me/habit_up_bot
     author: @Geramozg
   -
     name: RightChooserBot
+    title: RightChoice
 		links:
 			- https://t.me/RightChooserBot
     author: @CodeOrDie42
   -
     name: Crowdy
+    title: Crowdy
+    description: On the map, you see a heat map of the people around you. This allows you to see in real-time what level of congestion is on the streets to avoid the crowds.
+    icon: static/projects/crowdy.webp
     links:
       - https://play.google.com/store/apps/details?id=com.alftech.crowdy
     author: @alexff91
