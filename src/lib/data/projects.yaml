@@ -413,10 +413,10 @@
   type: bot
   title: Is Bot Down
   description: I check if other bots are down. Just send me a bot's username and I'll check it!
-  icon: static/projects/is-bot-down-bot.jpg
+  icon: /projects/is-bot-down-bot.jpg
   links:
     - https://t.me/IsBotDownBot
-  auhtor: borodutch
+  author: borodutch
 - name: viavidbot
   type: bot
   title: Via Vid
