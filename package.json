@@ -11,6 +11,7 @@
     "@sveltejs/adapter-vercel": "next",
     "@sveltejs/kit": "next",
     "carbon-components-svelte": "^0.47.5",
+    "carbon-icons-svelte": "^10.38.0",
     "carbon-preprocess-svelte": "^0.6.0",
     "svelte": "^3.38.3"
   },
