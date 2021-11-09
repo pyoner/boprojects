@@ -153,7 +153,7 @@
   -
     name: botspulse.com
     links:
-      - http://botspulse.com/
+      - https://botspulse.com/
     author: @bazhanRO
   -
     name: futureweightbot
@@ -189,12 +189,12 @@
   -
     name: palitra.app
     links:
-      - http://palitra.app/
+      - https://palitra.app/
     author: @pyoner
   -
     name: gotohr.ru
     links:
-      - http://gotohr.ru/
+      - https://gotohr.ru/
     author: @dshuran
   -
     name: flag_guesser_bot
@@ -234,7 +234,7 @@
   -
     name: dovideo.net
     links:
-      - http://dovideo.net/
+      - https://dovideo.net/
     author: @dshuran
   -
     name: hearty_robot
