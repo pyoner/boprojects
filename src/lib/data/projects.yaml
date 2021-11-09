@@ -402,3 +402,25 @@
   links:
     - https://play.google.com/store/apps/details?id=com.alftech.crowdy
   author: 'alexff91'
+- name: botspulsebot
+  type: bot
+  title: БотПульсБот — каталог ботов
+  icon: /projects/bot-pulse-bot.jpg
+  links:
+    - https://t.me/botspulsebot
+  author: bazhanRO
+- name: IsBotDownBot
+  type: bot
+  title: Is Bot Down
+  description: I check if other bots are down. Just send me a bot's username and I'll check it!
+  icon: static/projects/is-bot-down-bot.jpg
+  links:
+    - https://t.me/IsBotDownBot
+  auhtor: borodutch
+- name: viavidbot
+  type: bot
+  title: Via Vid
+  description: Отправляйте видео сообщения в любых чатах 🎥
+  links:
+    - https://t.me/viavidbot
+  author: rg_ceo
