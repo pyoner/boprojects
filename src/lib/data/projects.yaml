@@ -353,7 +353,7 @@
   author: 'spbguy'
 - name: yunior.app
   type: web
-  title: Мы помогаем студентам и молодым специалистам найти себя
+  title: Юниор. Вакансии
   description: Интеллектуальная работа, стажировки и другие карьерные возможности для студентов и молодых специалистов в крупных компаниях и крутых стартапах
   icon: /projects/yunior-app.ico
   links:
@@ -361,7 +361,7 @@
   author: 'spbguy'
 - name: base.yunior.app
   type: web
-  title: Мы помогаем компаниям найти таланты
+  title: Юниор. База специалистов
   description: База мотивированных кандидаты с актуальными знаниями и навыками
   icon: /projects/base-yunior-app.ico
   links:
