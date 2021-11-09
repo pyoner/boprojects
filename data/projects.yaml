@@ -1,0 +1,258 @@
+--- # projects
+  -
+    name: LeadAlertsBot
+		links:
+			- https://t.me/LeadAlertsBot
+    author: @yurayakimenko
+  -
+    name: BookKicker_bot
+		links:
+			- https://t.me/BookKicker_bot
+    author: @alexff91
+  -
+    name: getatopic_bot
+		links:
+			- https://t.me/getatopic_bot
+    author: @vovalukashov
+  -
+    name: antiplagiat_robot 
+		links:
+			- https://t.me/antiplagiat_robot 
+    author: @eldar_agaev
+  -
+    name: nftmap.com/landing
+    author: @bitcoinsmd
+  -
+    name: makereview.botsbase.ru 
+    author: @bazhanRO
+  -
+    name: videodiarybot
+		links:
+			- https://t.me/videodiarybot
+    author: @tgaru
+  -
+    name: checklybot
+		links:
+			- https://t.me/checklybot
+    author: @defileroff
+  -
+    name: nutrify_bot
+		links:
+			- https://t.me/nutrify_bot
+    author: @defileroff
+  -
+    name: feed_ai
+		links:
+			- https://t.me/feed_ai
+    author: @th3luck
+  -
+    name: voicewatcherbot
+		links:
+			- https://t.me/voicewatcherbot
+    author: @bazhanRO
+  -
+    name: apple.co/2UKH3rg
+    links:
+      - https://apple.co/2UKH3rg
+    author: @maxkazakov
+  -
+    name: quit_smoking_bot 
+		links:
+			- https://t.me/quit_smoking_bot 
+    author: @eldar_agaev
+  - 
+    name: YouTube SubSound 
+    links:
+      - https://chrome.google.com/webstore/detail/youtube-subsound/ohjehnjdpnambhdcalhoabplbiclekhp
+    author: @tgaru 
+  -
+    name: life_table_bot 
+		links:
+			- https://t.me/life_table_bot 
+    author: @eldar_agaev
+  -
+    name: justplacybot 
+		links:
+			- https://t.me/justplacybot 
+    author: @eldar_agaev
+  -
+    name: face2stickerbot 
+		links:
+			- https://t.me/face2stickerbot 
+    author: @defileroff
+  -
+    name: einstein_iqbot 
+		links:
+			- https://t.me/einstein_iqbot 
+    author: @eldar_agaev
+  -
+    name: FlightAlerts_Bot 
+		links:
+			- https://t.me/FlightAlerts_Bot 
+    author: @v11cb
+  -
+    name: very_lovely_bot 
+		links:
+			- https://t.me/very_lovely_bot 
+    author: @eldar_agaev
+  -
+    name: Мультипоиск
+    links:
+      - https://chrome.google.com/webstore/detail/multisearch-multiple-sear/hcndlmemmcbjncbmbgmplmedkmbanpbo
+    author: @izvonov
+  -
+    name: fastfeedback_bot 
+		links:
+			- https://t.me/fastfeedback_bot 
+    author: @rg_ceo
+  -
+    name: spinbottle_bot
+		links:
+			- https://t.me/spinbottle_bot
+    author: @eldar_agaev
+  -
+    name: Pull-ups
+    links:
+      - https://apps.apple.com/us/app/pull-ups/id1575124865
+    author: @gralexey
+  -
+    name: CutPriceBot
+		links:
+			- https://t.me/CutPriceBot
+    author: @Zestes
+  -
+    name: DriverHot_bot
+		links:
+			- https://t.me/DriverHot_bot
+    author: @Olegivsa
+  -
+    name: punchline_robot
+		links:
+			- https://t.me/punchline_robot
+    author: @eldar_agaev
+  -
+    name: BTC_transaction_robot
+		links:
+			- https://t.me/BTC_transaction_robot
+    author: @eldar_agaev
+  -
+    name: recally_bot
+		links:
+			- https://t.me/recally_bot
+    author: @gralexey
+  -
+    name: HeadMarket Subscription
+    links:
+      - https://headmarket.io/month_subscription
+    author: @fedor_secret
+  -
+    name: fun_events_bot
+		links:
+			- https://t.me/fun_events_bot
+    author: @gralexey
+  -
+    name: botspulse.com
+    links:
+      - http://botspulse.com/
+    author: @bazhanRO
+  -
+    name: futureweightbot
+		links:
+			- https://t.me/futureweightbot
+    author: @devprodct
+  -
+    name: CryptoGrannyFree
+		links:
+			- https://t.me/CryptoGrannyFree
+    author: @borodutch
+  -
+    name: CommonCrypto
+    links:
+      - https://commoncrypto.dev/
+    author: @borodutch
+  -
+    name: Dosu
+    links:
+      - https://dosu.io/
+    author: @borodutch
+  -
+    name: productiveme_bot
+		links:
+			- https://t.me/productiveme_bot
+    author: @alexff91
+  -
+    name: Supplar (Android, iOS)
+    links:
+      - https://play.google.com/store/apps/details?id=com.supplar
+      - https://apps.apple.com/ru/app/supplar/id1577333163
+    author: @dexedrine
+  -
+    name: palitra.app
+    links:
+      - http://palitra.app/
+    author: @pyoner
+  -
+    name: gotohr.ru
+    links:
+      - http://gotohr.ru/
+    author: @dshuran
+  -
+    name: flag_guesser_bot
+		links:
+			- https://t.me/flag_guesser_bot
+    author: @eldar_agaev
+  -
+    name: DoEventaBot
+		links:
+			- https://t.me/DoEventaBot
+    author: @memanot
+  -
+    name: ens.utilz.dev
+    links:
+      - https://ens.utilz.dev/
+    author: @johnnykramer
+  -
+    name: speakingbuddybot
+		links:
+			- https://t.me/speakingbuddybot
+    author: @spbguy
+  -
+    name: TestYourEnglishLevelBot
+		links:
+			- https://t.me/TestYourEnglishLevelBot
+    author: @spbguy
+  -
+    name: yunior.app
+    links:
+      - https://yunior.app/
+    author: @spbguy
+  -
+    name: base.yunior.app
+    links:
+      - https://base.yunior.app/
+    author: @spbguy
+  -
+    name: dovideo.net
+    links:
+      - http://dovideo.net/
+    author: @dshuran
+  -
+    name: hearty_robot
+		links:
+			- https://t.me/hearty_robot
+    author: @eldar_agaev
+  -
+    name: habit_up_bot
+		links:
+			- https://t.me/habit_up_bot
+    author: @Geramozg
+  -
+    name: RightChooserBot
+		links:
+			- https://t.me/RightChooserBot
+    author: @CodeOrDie42
+  -
+    name: Crowdy
+    links:
+      - https://play.google.com/store/apps/details?id=com.alftech.crowdy
+    author: @alexff91
