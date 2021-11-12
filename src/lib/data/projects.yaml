@@ -7,6 +7,7 @@
   links:
     - https://t.me/LeadAlertsBot
   author: 'yurayakimenko'
+  published_at: 2021-06-08
 - name: BookKicker_bot
   type: bot
   title: BookKicker👻 📚
@@ -15,6 +16,7 @@
   links:
     - https://t.me/BookKicker_bot
   author: 'alexff91'
+  published_at: 2021-06-21
 - name: getatopic_bot
   type: bot
   title: getatopic
@@ -23,6 +25,7 @@
   links:
     - https://t.me/getatopic_bot
   author: 'vovalukashov'
+  published_at: 2021-06-21
 - name: antiplagiat_robot
   type: bot
   title: Антиплагиат-бот от Text.ru| Точная проверка на уникальность
@@ -31,6 +34,7 @@
   links:
     - https://t.me/antiplagiat_robot
   author: 'eldar_agaev'
+  published_at: 2021-06-21
 - name: nftmap.com/landing
   type: web
   title: NftMap landing
@@ -39,6 +43,7 @@
   links:
     - https://nftmap.com/landing
   author: 'bitcoinsmd'
+  published_at: 2021-06-21
 - name: makereview.botsbase.ru
   type: web
   title: Телеграм бот для отзывов и предложений
@@ -46,6 +51,7 @@
   links:
     - https://makereview.botsbase.ru/
   author: 'bazhanRO'
+  published_at: 2021-06-21
 - name: videodiarybot
   type: bot
   title: Video Diary
@@ -54,6 +60,7 @@
   links:
     - https://t.me/videodiarybot
   author: 'tgaru'
+  published_at: 2021-06-28
 - name: checklybot
   type: bot
   title: Checklist
@@ -62,6 +69,7 @@
   links:
     - https://t.me/checklybot
   author: 'defileroff'
+  published_at: 2021-06-28
 - name: nutrify_bot
   type: bot
   title: nutrify
@@ -70,6 +78,7 @@
   links:
     - https://t.me/nutrify_bot
   author: 'defileroff'
+  published_at: 2021-06-28
 - name: feed_ai
   type: channel
   title: Tech Feed AI
@@ -77,6 +86,7 @@
   links:
     - https://t.me/feed_ai
   author: 'th3luck'
+  published_at: 2021-06-28
 - name: voicewatcherbot
   type: bot
   title: Voice Watcher 🎙👀
@@ -85,6 +95,7 @@
   links:
     - https://t.me/voicewatcherbot
   author: 'bazhanRO'
+  published_at: 2021-06-28
 - name: apple.co/2UKH3rg
   type: mobile
   title: QR-code Widget
@@ -93,6 +104,7 @@
   links:
     - https://apple.co/2UKH3rg
   author: 'maxkazakov'
+  published_at: 2021-06-28
 - name: quit_smoking_bot
   type: bot
   title: Бросай!
@@ -101,6 +113,7 @@
   links:
     - https://t.me/quit_smoking_bot
   author: 'eldar_agaev'
+  published_at: 2021-07-07
 - name: YouTube SubSound
   type: extension
   title: YouTube SubSound
@@ -109,6 +122,7 @@
   links:
     - https://chrome.google.com/webstore/detail/youtube-subsound/ohjehnjdpnambhdcalhoabplbiclekhp
   author: 'tgaru '
+  published_at: 2021-07-07
 - name: life_table_bot
   type: bot
   title: Таблица жизни | Узнай сколько тебе осталось
@@ -117,6 +131,7 @@
   links:
     - https://t.me/life_table_bot
   author: 'eldar_agaev'
+  published_at: 2021-07-07
 - name: justplacybot
   type: bot
   title: Placy
@@ -125,6 +140,7 @@
   links:
     - https://t.me/justplacybot
   author: 'eldar_agaev'
+  published_at: 2021-07-19
 - name: face2stickerbot
   type: bot
   title: Face 2 Sticker
@@ -133,6 +149,7 @@
   links:
     - https://t.me/face2stickerbot
   author: 'defileroff'
+  published_at: 2021-07-19
 - name: einstein_iqbot
   type: bot
   title: Альберт Эйнштейн | IQ-тест
@@ -141,6 +158,7 @@
   links:
     - https://t.me/einstein_iqbot
   author: 'eldar_agaev'
+  published_at: 2021-07-19
 - name: FlightAlerts_Bot
   type: bot
   title: Flight Alerts
@@ -149,6 +167,7 @@
   links:
     - https://t.me/FlightAlerts_Bot
   author: 'v11cb'
+  published_at: 2021-08-02
 - name: very_lovely_bot
   type: bot
   title: ❤️ Lovely | Знакомства в Telegram
@@ -157,6 +176,7 @@
   links:
     - https://t.me/very_lovely_bot
   author: 'eldar_agaev'
+  published_at: 2021-08-02
 - name: Мультипоиск
   type: extension
   title: Metasearch engine - upgrade Google search
@@ -165,6 +185,7 @@
   links:
     - https://chrome.google.com/webstore/detail/multisearch-multiple-sear/hcndlmemmcbjncbmbgmplmedkmbanpbo
   author: 'izvonov'
+  published_at: 2021-08-02
 - name: fastfeedback_bot
   type: bot
   title: Fast feedback
@@ -173,6 +194,7 @@
   links:
     - https://t.me/fastfeedback_bot
   author: 'rg_ceo'
+  published_at: 2021-08-02
 - name: spinbottle_bot
   type: bot
   title: Бутылочка | Играй с друзьями
@@ -181,6 +203,7 @@
   links:
     - https://t.me/spinbottle_bot
   author: 'eldar_agaev'
+  published_at: 2021-08-02
 - name: Pull-ups
   type: mobile
   title: Pull-ups
@@ -189,6 +212,7 @@
   links:
     - https://apps.apple.com/us/app/pull-ups/id1575124865
   author: 'gralexey'
+  published_at: 2021-08-10
 - name: CutPriceBot
   type: bot
   title: CutPrice
@@ -197,6 +221,7 @@
   links:
     - https://t.me/CutPriceBot
   author: 'Zestes'
+  published_at: 2021-08-10
 - name: DriverHot_bot
   type: bot
   title: Володя, что делать? Остановили ДПС!
@@ -204,6 +229,7 @@
   links:
     - https://t.me/DriverHot_bot
   author: 'Olegivsa'
+  published_at: 2021-08-10
 - name: punchline_robot
   type: bot
   title: Поиск трека по тексту
@@ -212,6 +238,7 @@
   links:
     - https://t.me/punchline_robot
   author: 'eldar_agaev'
+  published_at: 2021-08-10
 - name: BTC_transaction_robot
   type: bot
   title: BTC Transaction Explorer [Bitcoin]
@@ -220,6 +247,7 @@
   links:
     - https://t.me/BTC_transaction_robot
   author: 'eldar_agaev'
+  published_at: 2021-08-10
 - name: recally_bot
   type: bot
   title: Recally
@@ -228,6 +256,7 @@
   links:
     - https://t.me/recally_bot
   author: 'gralexey'
+  published_at: 2021-09-07
 - name: HeadMarket Subscription
   type: web
   title: Подписка на рассылку 1 месяц
@@ -236,12 +265,14 @@
   links:
     - https://headmarket.io/month_subscription
   author: 'fedor_secret'
+  published_at: 2021-09-07
 - name: fun_events_bot
   type: bot
   title: Eventy
   links:
     - https://t.me/fun_events_bot
   author: 'gralexey'
+  published_at: 2021-09-07
 - name: botspulse.com
   type: web
   title: Каталог ботов телеграм
@@ -249,6 +280,7 @@
   links:
     - https://botspulse.com/
   author: 'bazhanRO'
+  published_at: 2021-09-07
 - name: futureweightbot
   type: bot
   title: FutureWeight
@@ -257,6 +289,7 @@
   links:
     - https://t.me/futureweightbot
   author: 'devprodct'
+  published_at: 2021-09-07
 - name: CryptoGrannyFree
   type: channel
   title: Crypto Granny Free
@@ -265,6 +298,7 @@
   links:
     - https://t.me/CryptoGrannyFree
   author: 'borodutch'
+  published_at: 2021-10-08
 - name: CommonCrypto
   type: web
   title: CommonCrypto
@@ -272,6 +306,7 @@
   links:
     - https://commoncrypto.dev/
   author: 'borodutch'
+  published_at: 2021-10-08
 - name: Dosu
   type: web
   title: Dosu
@@ -280,6 +315,7 @@
   links:
     - https://dosu.io/
   author: 'borodutch'
+  published_at: 2021-10-08
 - name: productiveme_bot
   type: bot
   title: Three Daily Goals
@@ -288,6 +324,7 @@
   links:
     - https://t.me/productiveme_bot
   author: 'alexff91'
+  published_at: 2021-10-08
 - name: Supplar (Android, iOS)
   type: mobile
   title: Supplar
@@ -297,6 +334,7 @@
     - https://play.google.com/store/apps/details?id=com.supplar
     - https://apps.apple.com/ru/app/supplar/id1577333163
   author: 'dexedrine'
+  published_at: 2021-10-08
 - name: palitra.app
   type: web
   title: The easiest way to find a color palette
@@ -305,6 +343,7 @@
   links:
     - https://palitra.app/
   author: 'pyoner'
+  published_at: 2021-10-08
 - name: gotohr.ru
   type: web
   title: Простой способ опубликовать вакансию
@@ -313,6 +352,7 @@
   links:
     - https://gotohr.ru/
   author: 'dshuran'
+  published_at: 2021-10-08
 - name: flag_guesser_bot
   type: bot
   title: Угадай флаг!
@@ -321,6 +361,7 @@
   links:
     - https://t.me/flag_guesser_bot
   author: 'eldar_agaev'
+  published_at: 2021-10-08
 - name: DoEventaBot
   type: bot
   title: DoEventa
@@ -328,6 +369,7 @@
   links:
     - https://t.me/DoEventaBot
   author: 'memanot'
+  published_at: 2021-10-08
 - name: ens.utilz.dev
   type: web
   title: 🔥 ENS Domains Catcher 🔥
@@ -335,6 +377,7 @@
   links:
     - https://ens.utilz.dev/
   author: 'johnnykramer'
+  published_at: 2021-11-08
 - name: speakingbuddybot
   type: bot
   title: Shuffle
@@ -343,6 +386,7 @@
   links:
     - https://t.me/speakingbuddybot
   author: 'spbguy'
+  published_at: 2021-11-08
 - name: TestYourEnglishLevelBot
   type: bot
   title: Test Your English
@@ -351,6 +395,7 @@
   links:
     - https://t.me/TestYourEnglishLevelBot
   author: 'spbguy'
+  published_at: 2021-11-08
 - name: yunior.app
   type: web
   title: Юниор. Вакансии
@@ -359,6 +404,7 @@
   links:
     - https://yunior.app/
   author: 'spbguy'
+  published_at: 2021-11-08
 - name: base.yunior.app
   type: web
   title: Юниор. База специалистов
@@ -367,12 +413,14 @@
   links:
     - https://base.yunior.app/
   author: 'spbguy'
+  published_at: 2021-11-08
 - name: dovideo.net
   type: web
   title: Focus on youtube video without any distractions!
   links:
     - https://dovideo.net/
   author: 'dshuran'
+  published_at: 2021-11-08
 - name: hearty_robot
   type: bot
   title: Выскажись | Hearty bot
@@ -381,6 +429,7 @@
   links:
     - https://t.me/hearty_robot
   author: 'eldar_agaev'
+  published_at: 2021-11-08
 - name: habit_up_bot
   type: bot
   title: HabitUP - трекер привычек
@@ -388,12 +437,14 @@
   links:
     - https://t.me/habit_up_bot
   author: 'Geramozg'
+  published_at: 2021-11-08
 - name: RightChooserBot
   type: bot
   title: RightChoice
   links:
     - https://t.me/RightChooserBot
   author: 'CodeOrDie42'
+  published_at: 2021-11-08
 - name: Crowdy
   type: mobile
   title: Crowdy
@@ -402,6 +453,7 @@
   links:
     - https://play.google.com/store/apps/details?id=com.alftech.crowdy
   author: 'alexff91'
+  published_at: 2021-11-08
 - name: botspulsebot
   type: bot
   title: БотПульсБот — каталог ботов
@@ -409,6 +461,7 @@
   links:
     - https://t.me/botspulsebot
   author: bazhanRO
+  published_at: 2021-11-08
 - name: IsBotDownBot
   type: bot
   title: Is Bot Down
@@ -417,6 +470,7 @@
   links:
     - https://t.me/IsBotDownBot
   author: borodutch
+  published_at: 2021-11-08
 - name: viavidbot
   type: bot
   title: Via Vid
@@ -424,3 +478,4 @@
   links:
     - https://t.me/viavidbot
   author: rg_ceo
+  published_at: 2021-11-08
