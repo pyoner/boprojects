@@ -7,18 +7,20 @@ specifiers:
   carbon-components-svelte: ^0.47.5
   carbon-icons-svelte: ^10.38.0
   carbon-preprocess-svelte: ^0.6.0
+  fecha: ^4.2.1
   prettier: ^2.3.2
   prettier-plugin-svelte: ^2.3.1
   svelte: ^3.38.3
 
 dependencies:
+  fecha: 4.2.1
   prettier: 2.4.1
   prettier-plugin-svelte: 2.4.0_prettier@2.4.1+svelte@3.44.1
 
 devDependencies:
   '@originjs/vite-plugin-content': 1.0.1
   '@sveltejs/adapter-vercel': 1.0.0-next.31
-  '@sveltejs/kit': 1.0.0-next.195_svelte@3.44.1
+  '@sveltejs/kit': 1.0.0-next.196_svelte@3.44.1
   carbon-components-svelte: 0.47.5
   carbon-icons-svelte: 10.38.0
   carbon-preprocess-svelte: 0.6.0_svelte@3.44.1
@@ -59,8 +61,8 @@ packages:
       esbuild: 0.13.12
     dev: true
 
-  /@sveltejs/kit/1.0.0-next.195_svelte@3.44.1:
-    resolution: {integrity: sha512-R2X4FgzXQhp63XOik6S1Flw91S2CEA7sTxdsnNFrq3O+bIN7pQhJhkm6zgH68MZANdDcq8oIiSRkxT4M3t1+jQ==}
+  /@sveltejs/kit/1.0.0-next.196_svelte@3.44.1:
+    resolution: {integrity: sha512-z7sA/2/3Il5biibjPXCYXJC11TyFhgCvMaJvvbtMnu2l3EmOmJBMS+r2djGptzfFsugSVNwGQFn8+ldWQWq3jA==}
     engines: {node: '>=14.13'}
     hasBin: true
     peerDependencies:
@@ -426,6 +428,10 @@ packages:
     resolution: {integrity: sha512-h2z5mrROTxce56S+pnvAV890uu7ls7f1kEvVGJbw1OlFH3/mlJ5bkXu0KRyW94v37zzHPiUd55iLn3DA7TjWpw==}
     engines: {node: '>=0.8'}
     dev: true
+
+  /fecha/4.2.1:
+    resolution: {integrity: sha512-MMMQ0ludy/nBs1/o0zVOiKTpG7qMbonKUzjJgQFEuvq6INZ1OraKPRAWkBq5vlKLOUMpmNYG1JoN3oDPUQ9m3Q==}
+    dev: false
 
   /fflate/0.7.1:
     resolution: {integrity: sha512-VYM2Xy1gSA5MerKzCnmmuV2XljkpKwgJBKezW+495TTnTCh1x5HcYa1aH8wRU/MfTGhW4ziXqgwprgQUVl3Ohw==}

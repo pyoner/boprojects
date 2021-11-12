@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { format } from 'fecha';
   import 'carbon-components-svelte/css/white.css';
   import { DataTable, Link } from 'carbon-components-svelte';
   import { Launch16 } from 'carbon-icons-svelte';
@@ -12,7 +13,8 @@
     { key: 'type', value: 'Type' },
     { key: 'title', value: 'Title' },
     { key: 'description', value: 'Description' },
-    { key: 'author', value: 'Author' }
+    { key: 'author', value: 'Author' },
+    { key: 'published_at', value: 'Published' }
   ];
   const rows = projects.map((p, i) => ({ ...p, id: p.name, index: i + 1 }));
   const title = 'Проекты клуба Бородач';
@@ -42,6 +44,8 @@
       <Link icon={Launch16} href="https://t.me/{cell.value}" target="_blank">
         {cell.value}
       </Link>
+    {:else if cell.key === 'published_at'}
+      {format(cell.value, 'isoDate')}
     {:else}{cell.value || ''}{/if}
   </span>
 </DataTable>
