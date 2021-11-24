@@ -479,3 +479,75 @@
     - https://t.me/viavidbot
   author: rg_ceo
   published_at: 2021-11-08
+- name: antispamname_bot
+  type: bot
+  title: AntiSpam Name Bot
+  description: Удаляю ботов по спамными никами из чатов.
+  icon: /projects/antispam-name-bot.jpg
+  links:
+    - https://t.me/antispamname_bot
+  author: bazhanRO
+  published_at: 2021-11-22
+- name: getwallof.love
+  type: web
+  title: Get Wall Of Love 💕
+  description: A simple web application that creates "Wall Of Love" for ProductHunt applications.
+  icon: /projects/get-wallof-love.png
+  links:
+    - https://getwallof.love/
+  author: pyoner
+  published_at: 2021-11-22
+- name: YourDomainHealthCheckBot
+  type: bot
+  title: HealthCheck
+  description: This bot helps to check all your domains every minute.
+  icon: /projects/your-domain-health-check-bot.jpg
+  links:
+    - https://t.me/YourDomainHealthCheckBot
+  author: alexff91
+  published_at: 2021-11-22
+- name: checkcv.info
+  type: web
+  title: Check CV
+  description: Check your CV instantly
+  icon: /projects/check-vc.ico
+  links:
+    - https://checkcv.info/
+  author: alexff91
+  published_at: 2021-11-22
+- name: Foreign Agent Remover
+  type: extension
+  title: Foreign Agent Remover
+  description: Extension removes annoying message about foreign agent
+  icon: /projects/foreign-agent-remover.jpg
+  links:
+    - https://chrome.google.com/webstore/detail/foreign-agent-remover/dlliidoiehmofdlgkclhoifnghmpelkh
+  author: alexff91
+  published_at: 2021-11-22
+- name: Автоюрист Володя
+  type: mobile
+  title: Автоюрист Володя. Помощь с ДПС
+  description: Привет! Я - ассистент Володя. Помогаю правильно общаться с инспектором ДПС.
+  icon: /projects/auto-lawyer-volodya.webp
+  links:
+    - https://play.google.com/store/apps/details?id=com.steelmar.hotbot_app1
+  author: Olegivsa
+  published_at: 2021-11-22
+- name: BotMailingsBot
+  type: bot
+  title: BotMailingsBot
+  description: Бот для рассылки сообщений по вашим телеграм ботам.
+  icon: /projects/bot-mailings-bot.jpg
+  links:
+    - https://t.me/BotMailingsBot
+  author: yarfuo
+  published_at: 2021-11-22
+- name: scam_checker_bot
+  type: bot
+  title: Scam Checker
+  description: Scam Checker helps you to fight scammers
+  icon: static/projects/scam-checker-bot.jpg
+  links:
+    - https://t.me/scam_checker_bot
+  author: sergeistepanov
+  published_at: 2021-11-22
