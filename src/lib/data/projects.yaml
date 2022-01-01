@@ -546,8 +546,69 @@
   type: bot
   title: Scam Checker
   description: Scam Checker helps you to fight scammers
-  icon: static/projects/scam-checker-bot.jpg
+  icon: /projects/scam-checker-bot.jpg
   links:
     - https://t.me/scam_checker_bot
   author: sergeistepanov
   published_at: 2021-11-22
+- name: meetmeeasy.app
+  type: web
+  title: Take control of your schedule
+  description: 👋 Scheduling meetings is easy
+  icon: /projects/meetmeeasy-app.png
+  links:
+    - https://meetmeeasy.app/
+  author: frolovandrei
+  published_at: 2021-12-28
+- name: findmetime.app
+  type: web
+  title: Find me time
+  description: A multiplayer timeline for scheduling meetings and calls across different time zones.
+  links:
+    - https://www.findmetime.app/
+  author: vladsofronov
+  published_at: 2021-12-28
+- name: Stackovershits
+  type: extension
+  title: Stackovershits
+  description: Google search cleaner for shitty stackoverflow clones
+  icon: /projects/stackovershits.jpg
+  links:
+    - https://chrome.google.com/webstore/detail/stackovershits/idcideoaglaophnpmbdckpfjplaamaip
+  author: yarfuo
+  published_at: 2021-12-28
+- name: your_kind_bot
+  type: bot
+  title: Kind - Печать фото
+  description: ❤️ Kind напечатает твои фото и отправит их по любому адресу за 1 минуту
+  icon: /projects/your-kind-bot.jpg
+  links:
+    - https://t.me/your_kind_bot
+  author: izvonov
+  published_at: 2021-12-28
+- name: nftstickersbot
+  type: bot
+  title: NFT to Stickers
+  description: 😎 Я превращаю NFT в стикеры!\nOpensea, Rarible, Foundation
+  icon: /projects/nftstickersbot.jpg
+  links:
+    - https://t.me/nftstickersbot
+  author: mrkkrn
+  published_at: 2021-12-28
+- name: storyboost.me
+  type: web
+  title: StoryBoost - Истории для изучения английского языка
+  description: Сервис помогает найти истории для изучения английского языка
+  links:
+    - https://storyboost.me/
+  author: devproduct
+  published_at: 2021-12-28
+- name: monoqr_bot
+  type: bot
+  title: Монокуар бот
+  description: Телеграм бот який віддасть тобі QR код для прийому переказів на твою mono картку.
+  icon: /projects/monoqr_bot.jpg
+  links:
+    - https://t.me/monoqr_bot
+  author: ENAMETOOLONG
+  published_at: 2021-12-28
