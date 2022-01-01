@@ -4,7 +4,8 @@
     "dev": "svelte-kit dev",
     "build": "svelte-kit build --verbose",
     "preview": "svelte-kit preview",
-    "tocsv": "ts-node ./scripts/tocsv.ts"
+    "tocsv": "ts-node ./scripts/index.ts tocsv",
+    "scrape": "ts-node ./scripts/index.ts scrape"
   },
   "devDependencies": {
     "@originjs/vite-plugin-content": "^1.0.1",
@@ -12,15 +13,26 @@
     "@sveltejs/kit": "next",
     "@types/js-yaml": "^4.0.5",
     "@types/json2csv": "^5.0.3",
+    "@types/node-fetch": "2",
     "carbon-components-svelte": "^0.47.5",
     "carbon-icons-svelte": "^10.38.0",
     "carbon-preprocess-svelte": "^0.6.0",
+    "commander": "^8.3.0",
     "js-yaml": "^4.1.0",
     "json2csv": "^5.0.6",
+    "metascraper": "^5.25.6",
+    "metascraper-description": "^5.25.6",
+    "metascraper-image": "^5.25.6",
+    "metascraper-logo": "^5.25.6",
+    "metascraper-logo-favicon": "^5.25.6",
+    "metascraper-title": "^5.25.6",
+    "metascraper-url": "^5.25.6",
+    "node-fetch": "2",
     "svelte": "^3.38.3",
     "ts-node": "^10.4.0"
   },
   "dependencies": {
+    "bandersnatch": "^1.9.0",
     "fecha": "^4.2.1",
     "prettier": "^2.3.2",
     "prettier-plugin-svelte": "^2.3.1"

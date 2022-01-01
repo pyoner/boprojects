@@ -2,7 +2,11 @@ import { load } from 'js-yaml';
 import { transforms, parse } from 'json2csv';
 import fs from 'fs';
 
-function main() {
+import { command } from 'bandersnatch';
+
+export const tocsv = command('tocsv', {
+  description: 'convert YAML file to CSV'
+}).action(() => {
   const file = {
     yaml: './src/lib/data/projects.yaml',
     csv: './src/lib/data/projects.csv'
@@ -21,6 +25,4 @@ function main() {
     ]
   });
   fs.writeFileSync(file.csv, csv);
-}
-
-main();
+});
